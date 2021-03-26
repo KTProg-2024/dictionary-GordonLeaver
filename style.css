@@ -13,6 +13,11 @@
   font-size: 25px;
 }
 
+.note {
+  font-size: 25px;
+  font-weight: bold;
+}
+
 .pronounciation {
   font-style: italic;
   color: #2D5F7C;
